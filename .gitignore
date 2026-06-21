@@ -1,0 +1,25 @@
+# Virtual environments
+.venv/
+.venv311/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ML model files
+*.keras
+*.h5
+*.ckpt
+*.pth
+*.pt
+
+# Dataset (optional)
+HAM10000/
+*.csv
+
+# OS files
+Thumbs.db
+.DS_Store
