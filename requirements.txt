@@ -5,3 +5,9 @@ matplotlib
 seaborn
 scikit-learn
 kagglehub
+streamlit==1.38.0
+tensorflow-cpu==2.21.0
+pillow
+numpy
+matplotlib
+huggingface_hub
